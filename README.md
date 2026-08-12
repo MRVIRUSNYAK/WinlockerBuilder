@@ -2,3 +2,4 @@
 
 # WinlockerBuilder
 Программа для создание своего виелокера свой заголвок текст, заголовок, пароль 
+<img width="951" height="500" alt="изображение" src="https://github.com/user-attachments/assets/73dd6f80-bd72-430e-a7b6-1479e53a42b2" />
